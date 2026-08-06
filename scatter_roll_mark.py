@@ -6,3 +6,4 @@ plt.xlabel("Roll Number")
 plt.ylabel("Marks")
 plt.title("Scatter Plot of Roll Numbers vs Marks")
 plt.show()
+
